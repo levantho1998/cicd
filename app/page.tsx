@@ -3,5 +3,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <h1>update</h1>;
+  return <h1>update1</h1>;
 }
